@@ -1,0 +1,21 @@
+input{
+  width: 40%;
+  height: 50px;
+  font-size: 24px;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  background-color:rgb(247, 214, 28);
+  color: black;
+  margin: 10px;
+
+}
+h1{
+  color: black;
+  font-size: 50px;
+  font-family: adobe arabic;
+}
+::placeholder{
+  color:black ;
+
+}
